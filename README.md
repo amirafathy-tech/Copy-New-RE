@@ -1,4 +1,6 @@
-# NgxRe16
+# REAL ESTATE Angular Application
+
+This is a real estate demo application where our aim was to try and use simple technologies to demo a real estate with simple entities.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
 
